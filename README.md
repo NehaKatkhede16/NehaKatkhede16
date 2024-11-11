@@ -14,9 +14,9 @@
   Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
   <a href="https://www.linkedin.com/in/neha-katkhede-36558a266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-katkhede" height="40" width="50" /></a>
   <a href="https://youtu.be/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT PODCAST" height="40" width="50"/></a>
-  <a href="https://www.naukri.com/code360/profile/b15e3a29-8a21-41fe-9dfd-a03155f97134" target="blank"><img align="center" src="https://manu-karenite.github.io/portfolio/img/cn.png" alt="coding ninjas" height="40" width="50" /></a>
+  <a href="https://neha-katkhede.netlify.app/" height="40" width="50" /></a>
   <a href="https://leetcode.com/u/NK_CODER/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
-  <a href="https://www.youtube.com/@neeru_05" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/575/original/youtube-logo-youtube-icon-transparent-free-png.png" alt="yt" height="63" width="60" /></a> 
+  
 </p>
 <h4 align="center"> 📩 Get in touch: <a href="mailto:nehakatkhede@gmail.com">nehakatkhede16@gmail.com</a> </h4>
 
@@ -82,8 +82,11 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /></a>
 </div>
 
-[![An image of @neha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neha)](https://holopin.io/@neha)
+[![An image of @neha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neha)](https://holopin.io/@nehakatkhede16#badges)
+
 
 <div align="center"> 
-  <h1> 
-    <img src
+    <h1> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
+    </h1>
+</div>
