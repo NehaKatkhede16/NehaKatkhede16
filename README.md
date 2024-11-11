@@ -77,7 +77,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /></a>
 </div>
 
-[![An image of @neha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neha)](https://holopin.io/@nehakatkhede16#badges)
+[![An image of @neha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/@nehakatkhede16#badges)](https://holopin.io/@nehakatkhede16#badges)
 
 
 <div align="center"> 
