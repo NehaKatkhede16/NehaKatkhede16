@@ -38,3 +38,9 @@
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nehakatkhede16&theme=github_dark" alt="Languages Per Repo Card" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nehakatkhede16&theme=github_dark" alt="Most Commit Language Card" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nehakatkhede16&theme=github_dark" alt="GitHub Stats Card
+
+<div align="center"> 
+    <h1> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
+    </h1>
+</div>
